@@ -16,8 +16,7 @@ class day_1_twoSum {
         return result;
     }
 
-
-    public static void main(String[] args){
+public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the size of the array.");
         int size=sc.nextInt();
