@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class day2_palindromeNumber {
 
-        public static boolean isPalindrome(int x) {
+    public static boolean isPalindrome(int x) {
             String s = Integer.toString(x);
             int length = s.length();
             for(int i=0;i<length;i++){
