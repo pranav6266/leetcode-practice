@@ -33,6 +33,6 @@ class day_1_twoSum {
         for (int j : result) {
             System.out.print(j);
         }
-
+        sc.close();
     }
 }
