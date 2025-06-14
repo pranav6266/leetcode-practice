@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class day_1_twoSum {
+class day1_twoSum {
 
 public static int[] twoSum(int[] nums, int target) {
         int[] result=new int[2];
